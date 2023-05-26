@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A38AD4C52A20ADC80062826F /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A38AD4C42A20ADC80062826F /* DetailView.swift */; };
 		DAAC03132A20A83B00C2F0B9 /* BelajarGitApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAAC03122A20A83B00C2F0B9 /* BelajarGitApp.swift */; };
 		DAAC03152A20A83B00C2F0B9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAAC03142A20A83B00C2F0B9 /* ContentView.swift */; };
 		DAAC03172A20A83C00C2F0B9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DAAC03162A20A83C00C2F0B9 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A38AD4C42A20ADC80062826F /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 		DAAC030F2A20A83B00C2F0B9 /* BelajarGit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BelajarGit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DAAC03122A20A83B00C2F0B9 /* BelajarGitApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BelajarGitApp.swift; sourceTree = "<group>"; };
 		DAAC03142A20A83B00C2F0B9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -35,6 +37,7 @@
 		DAAC03062A20A83B00C2F0B9 = {
 			isa = PBXGroup;
 			children = (
+				A38AD4C42A20ADC80062826F /* DetailView.swift */,
 				DAAC03112A20A83B00C2F0B9 /* BelajarGit */,
 				DAAC03102A20A83B00C2F0B9 /* Products */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DAAC03152A20A83B00C2F0B9 /* ContentView.swift in Sources */,
+				A38AD4C52A20ADC80062826F /* DetailView.swift in Sources */,
 				DAAC03132A20A83B00C2F0B9 /* BelajarGitApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
